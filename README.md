@@ -36,8 +36,9 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img height="220px" src="https://github-readme-stats.vercel.app/api?username=ronanren&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanren&layout=compact&theme=gotham&hide_border=true&count_private=true&include_all_commits=true&layout=compact&langs_count=10"/>
+  <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanren&layout=compact&theme=gotham&hide_border=true&count_private=true&include_all_commits=true&layout=compact&langs_count=10"/>
+  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=ronanren&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    
 </details>
  
 
