@@ -11,7 +11,7 @@
 
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to make real projects ✨. 
 
-- I'm currently into GIS Web Development in work-study program 🕸️.
+- I'm currently in the work-study program at Rennes Métropole in the GIS department 🕸️.
 
 --- 
 
