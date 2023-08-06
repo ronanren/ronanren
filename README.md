@@ -1,9 +1,4 @@
 ## Hi there 👋, I am [Ronan Renoux!](https://github.com/ronanren/)
---- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronanrenoux/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ronanren.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ronanren)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:renouxpro@gmail.com)
 
 ### Glad to see you here !
 
@@ -11,9 +6,7 @@
 
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to make real projects ✨. 
 
-- I'm currently in the work-study program at Rennes Métropole in the GIS department 🕸️.
-
---- 
+- I'm currently in the work-study program at Rennes Métropole in the GIS department 🌍.
 
 ### 📚 Languages and Tools:
 
@@ -86,8 +79,6 @@
 		</tr>
 	</tbody>
 </table>
-
---- 
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
