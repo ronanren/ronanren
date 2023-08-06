@@ -60,13 +60,13 @@
 			<td align="center"><a href="https://nestjs.com/">NestJS</a></td>
 			<td align="center"><a href="https://docs.ethers.org/v5/">Ethers.js</a></td>
             <td align="center"></td>
-            <td align="center"></td>
+            <td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">Rust</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
+			<td align="center"><a href="https://www.php.net/">PHP</a></td>
 			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://twig.symfony.com/">Twig</a></td>
 			<td align="center"><a href="https://sql.sh/">SQL</a></td>
 			<td align="center"><a href="https://www.postgresql.org/">PostgresSQL</a></td>
             <td align="center"><a href="https://docs.multiversx.com/developers/overview">Rust (MultiversX)</a></td>
@@ -75,10 +75,10 @@
 		</tr>
 		<tr>
 			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
-			<td align="center"><a href="https://www.php.net/">PHP</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
+			<td align="center"><a href="https://postgis.net/">PostGIS</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
