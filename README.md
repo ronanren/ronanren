@@ -15,27 +15,77 @@
 
 --- 
 
-### Languages and Tools:
+### 📚 Languages and Tools:
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap">
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-    <img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</div>
+<table align="center">
+	<thead>
+		<tr>
+			<th colspan="2"><b>Programming Languages</b></th>
+			<th colspan="2"><b>Front-end Web</b></th>
+			<th colspan="2"><b>Back-end Web</b></th>
+            <th colspan="1"><b>Blockchain</b></th>
+            <th colspan="1"><b>Mobile</b></th>
+            <th colspan="1"><b>Tools</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
+			<td align="center"><a href="https://www.opengl.org/">OpenGL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+			<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a></td>
+            <td align="center"><a href="https://flutter.dev/">Flutter</a></td>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+		</tr>
+		<tr>
+            <td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
+			<td align="center"><a href="https://getbootstrap.com/">Bootstrap</a></td>
+			<td align="center"><a href="https://tailwindcss.com/">Tailwind</a></td>
+			<td align="center"><a href="https://nextjs.org/">NextJS</a></td>
+			<td align="center"><a href="https://symfony.com/">Symfony</a></td>
+			<td align="center"><a href="https://hardhat.org/">Hardhat</a></td>
+            <td align="center"><a href="https://reactnative.dev/">React Native</a></td>
+			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://www.python.org/">Python</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a></td>
+			<td align="center"><a href="https://chakra-ui.com/">Chakra UI</a></td>
+			<td align="center"><a href="https://fr.legacy.reactjs.org/">React</a></td>
+            <td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
+			<td align="center"><a href="https://nestjs.com/">NestJS</a></td>
+			<td align="center"><a href="https://docs.ethers.org/v5/">Ethers.js</a></td>
+            <td align="center"></td>
+            <td align="center"></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">Rust</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
+			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
+			<td align="center"></td>
+			<td align="center"><a href="https://sql.sh/">SQL</a></td>
+			<td align="center"><a href="https://www.postgresql.org/">PostgresSQL</a></td>
+            <td align="center"><a href="https://docs.multiversx.com/developers/overview">Rust (MultiversX)</a></td>
+			<td align="center"></td>
+            <td align="center"></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
+			<td align="center"><a href="https://www.php.net/">PHP</a></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+            <td align="center"></td>
+		</tr>
+	</tbody>
+</table>
 
 --- 
 
