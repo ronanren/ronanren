@@ -55,7 +55,7 @@
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a></td>
 			<td align="center"><a href="https://chakra-ui.com/">Chakra UI</a></td>
-			<td align="center"><a href="https://fr.legacy.reactjs.org/">React</a></td>
+			<td align="center"><a href="https://react.dev/">React</a></td>
             <td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
 			<td align="center"><a href="https://nestjs.com/">NestJS</a></td>
 			<td align="center"><a href="https://docs.ethers.org/v5/">Ethers.js</a></td>
@@ -67,7 +67,7 @@
 			<td align="center"><a href="https://www.php.net/">PHP</a></td>
 			<td align="center"><a href="https://jquery.com/">jQuery</a></td>
 			<td align="center"><a href="https://twig.symfony.com/">Twig</a></td>
-			<td align="center"><a href="https://sql.sh/">SQL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
 			<td align="center"><a href="https://www.postgresql.org/">PostgresSQL</a></td>
 			<td align="center"><a href="https://www.chaijs.com/">Chai</a></td>
 			<td align="center"></td>
