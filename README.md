@@ -31,7 +31,7 @@
 			<td align="center"><a href="https://www.typescriptlang.org/">TypeScript</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a></td>
             <td align="center"><a href="https://flutter.dev/">Flutter</a></td>
-			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+			<td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
 		</tr>
 		<tr>
             <td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
@@ -42,7 +42,7 @@
 			<td align="center"><a href="https://symfony.com/">Symfony</a></td>
 			<td align="center"><a href="https://hardhat.org/">Hardhat</a></td>
             <td align="center"><a href="https://reactnative.dev/">React Native</a></td>
-			<td align="center"><a href="https://www.docker.com/">Docker</a></td>
+			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
@@ -53,7 +53,7 @@
 			<td align="center"><a href="https://nestjs.com/">NestJS</a></td>
 			<td align="center"><a href="https://docs.ethers.org/v5/">Ethers.js</a></td>
             <td align="center"></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
+            <td align="center"><a href="https://www.docker.com/">Docker</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">Rust</a></td>
@@ -64,7 +64,7 @@
 			<td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
 			<td align="center"><a href="https://www.chaijs.com/">Chai</a></td>
 			<td align="center"></td>
-            		<td align="center"></td>
+            		<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
