@@ -2,11 +2,13 @@
 
 ### Glad to see you here !
 
-- I am a student pursuing a computer engineering degree 🎓 at Enssat in Lannion 🏛. 
+IT Engineer passionate about exploring and leveraging new technologies for real-world projects ✨
 
-- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to make real projects ✨. 
-
-- I'm currently in the work-study program at Rennes Métropole in the GIS department 🌍.
+Live projects:
+- [Social Stack](https://socialstack.me/)
+- [StackOverflow Answer](https://chromewebstore.google.com/detail/stackoverflow-answer/bmlkdgmiaemiaopodggkhfblhmefimoi)
+- [FreeWork Dashboard](https://freework-dashboard.vercel.app/)
+- [Staking Dashboard](https://ronanren.github.io/stakingDashboardLandingPage/dist/index.html)
 
 ### 📚 Languages and Tools:
 
