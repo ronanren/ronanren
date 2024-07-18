@@ -6,10 +6,10 @@ IT Engineer passionate about exploring and leveraging new technologies for real-
 
 ### Live projects:
 
-- <a href="https://socialstack.me/" target="_blank">Social Stack</a>
-- <a href="https://chromewebstore.google.com/detail/stackoverflow-answer/bmlkdgmiaemiaopodggkhfblhmefimoi" target="_blank">StackOverflow Answer</a>
-- <a href="https://freework-dashboard.vercel.app/" target="_blank">FreeWork Dashboard</a>
-- <a href="https://ronanren.github.io/stakingDashboardLandingPage/dist/index.html" target="_blank">Staking Dashboard</a>
+- [Social Stack](https://socialstack.me/)
+- [StackOverflow Answer](https://chromewebstore.google.com/detail/stackoverflow-answer/bmlkdgmiaemiaopodggkhfblhmefimoi)
+- [FreeWork Dashboard](https://freework-dashboard.vercel.app/)
+- [Staking Dashboard](https://ronanren.github.io/stakingDashboardLandingPage/dist/index.html)
 
 
 ### 📚 Languages and Tools:
