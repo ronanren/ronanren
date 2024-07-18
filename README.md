@@ -6,11 +6,10 @@ IT Engineer passionate about exploring and leveraging new technologies for real-
 
 ### Live projects:
 
-- [Social Stack](https://socialstack.me/)
-- [StackOverflow Answer](https://chromewebstore.google.com/detail/stackoverflow-answer/bmlkdgmiaemiaopodggkhfblhmefimoi)
-- [FreeWork Dashboard](https://freework-dashboard.vercel.app/)
-- [Staking Dashboard](https://ronanren.github.io/stakingDashboardLandingPage/dist/index.html)
-
+- [Social Stack](https://socialstack.me/): The ultimate tool for showcasing social links, projects, and more in one seamless platform
+- [StackOverflow Answer](https://chromewebstore.google.com/detail/stackoverflow-answer/bmlkdgmiaemiaopodggkhfblhmefimoi): A Chrome Extension that quickly retrieves StackOverflow answers directly from Google search results
+- [FreeWork Dashboard](https://freework-dashboard.vercel.app/): A comprehensive dashboard for managing freelance jobs efficiently
+- [Staking Dashboard](https://ronanren.github.io/stakingDashboardLandingPage/dist/index.html): A versatile mobile and web application for staking crypto management
 
 ### 📚 Languages and Tools:
 
