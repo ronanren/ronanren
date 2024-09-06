@@ -2,7 +2,7 @@
 
 ### Glad to see you here !
 
-IT Engineer passionate about exploring and leveraging new technologies for real-world projects ✨
+Freelance IT Engineer passionate about exploring and leveraging new technologies for real-world projects ✨
 
 ### Live projects:
 
