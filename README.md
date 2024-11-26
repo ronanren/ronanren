@@ -1,16 +1,8 @@
-## Hi there 👋, I am [Ronan Renoux!](https://github.com/ronanren/)
+## Hi there 👋, I’m Ronan Renoux!
 
-### Glad to see you here !
+I’m a freelance IT Engineer passionate about leveraging new technologies to build impactful projects.
 
-Freelance IT Engineer passionate about exploring and leveraging new technologies for real-world projects ✨
-
-### Live projects:
-
-- [FreeWork Dashboard](https://freework-dashboard.vercel.app/): A comprehensive dashboard for managing freelance jobs efficiently
-- [Social Stack](https://socialstack.me/): The ultimate tool for showcasing social links, projects, and more in one seamless platform
-- [StackOverflow Answer](https://chromewebstore.google.com/detail/stackoverflow-answer/bmlkdgmiaemiaopodggkhfblhmefimoi): A Chrome Extension that quickly retrieves StackOverflow answers directly from Google search results
-- [Crypto Ticker LED](https://github.com/ronanren/CryptoTickerLed): Display real-time crypto prices on a matrix LED (software by me, hardware sold by a partner [here](https://www.etsy.com/listing/1660298917/handcrafted-cryptoak-ticker-112-led?click_key=a4dfe04abb32134a287527d7469c146054c0e6a7%3A1660298917&click_sum=df686796&ref=internal_similar_listing_bot-2&frs=1&sts=1))
-- [Staking Dashboard](https://ronanren.github.io/stakingDashboardLandingPage/dist/index.html): A versatile mobile and web application for staking crypto management
+For a more detailed look at my work, skills, and experience, feel free to visit my portfolio: 🌐 [ronanren.fr](https://ronanren.fr)
 
 ### 📚 Languages and Tools:
 
